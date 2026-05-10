@@ -1,5 +1,5 @@
 site_name: numbapy
-repo_url: https://github.com/<USER>/<REPO>
+repo_url: https://github.com/filbet4/numbapyproject
 nav:
   - Home: index.md
   - API: api.md

@@ -31,5 +31,5 @@ On release/tag, a GitHub Actions workflow builds the package and publishes to **
 ## Binder / Colab
 
 See the demo notebook: `notebooks/demo.ipynb`.
-- Binder: `https://mybinder.org/v2/gh/<USER>/<REPO>/HEAD?labpath=notebooks%2Fdemo.ipynb`
+- Binder: `https://mybinder.org/v2/gh/filbet4/numbapyproject/HEAD?labpath=notebooks%2Fdemo.ipynb`
 - Colab: open the notebook in Colab and run the install cell.
